@@ -1,12 +1,9 @@
 
 # 👾 BITLEZ
-### Building ideas through code.
 
 **Independent Developer | Argentina 🇦🇷**
 
 Welcome to my GitHub! I'm a developer focused on creating functional digital solutions, exploring software development and bringing creative ideas to life through code.
-
----
 
 ## 💻 Technologies & Tools
 
@@ -20,24 +17,23 @@ Welcome to my GitHub! I'm a developer focused on creating functional digital sol
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 GameHub
+### GameHub
 A web platform focused on videogame discovery and user management.
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
 
-### 🎮 Worms 2 The Revenge
+### Worms 2 The Revenge
 A desktop videogame developed as an academic project, featuring interactive interfaces, gameplay systems and audio.
 
 **Technologies:** Java, JavaFX.
 
-### 🧩 Cubism In Game
+### Cubism In Game
 A multiplayer educational experience based on artistic cubism.
+(In development)
 
 **Technologies:** Godot, GDScript, ENet.
-
----
 
 ## 🎯 Currently Focused On
 
@@ -46,12 +42,8 @@ A multiplayer educational experience based on artistic cubism.
 - Exploring game development.
 - Working on independent projects.
 
----
-
-## 📫 Contact
+## Contact
 
 Open to small freelance projects, collaborations and new opportunities.
+[Contact me](mailto:guinelsantiago08@gmail.com)
 
----
-
-*Building ideas, one line at a time.*
