@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a developer focused on creating functional digital sol
 
 ---
 
-## Featured Projects - Proyectos Destacados (Recientes)
+## Featured Projects - Proyectos Destacados
 
 ### GameHub
 A web platform focused on videogame discovery and user management.
@@ -55,6 +55,14 @@ Una experiencia educativa multijugador basada en el cubismo artístico.
 - Crear aplicaciones web.
 - Explorar el desarrollo de videojuegos.
 - Trabajar en proyectos independientes.
+
+## 🎓 Education - Formación
+
+**Technical Degree in Programming**
+Currently completing my technical secondary education in Argentina.
+
+**Técnico en Programación**
+Actualmente cursando el ante último año de educación técnica secundaria.
 
 ## Contact
 
