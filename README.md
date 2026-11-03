@@ -28,7 +28,7 @@ Una plataforma web centrada en el descubrimiento de videojuegos y la gestión de
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
 
-[📂 View Repository](PEGAR_LINK_DE_WORMS)
+[View Repository](https://github.com/Bitlez/GameHub)
 
 ### Worms 2 The Revenge
 A desktop videogame developed as an academic project, featuring interactive interfaces, gameplay systems and audio.
@@ -37,7 +37,7 @@ Un videojuego para ordenador desarrollado como proyecto académico, que cuenta c
 
 **Technologies:** Java, JavaFX.
 
-[📂 View Repository](https://github.com/Bitlez/Worms-2-The-Revenge)
+[View Repository](https://github.com/Bitlez/Worms-2-The-Revenge)
 
 ### Cubism In Game
 A multiplayer educational experience based on artistic cubism.
@@ -47,7 +47,7 @@ Una experiencia educativa multijugador basada en el cubismo artístico.
 
 **Technologies:** Godot, GDScript, ENet.
 
-[📂 View Repository](PEGAR_LINK_DE_WORMS)
+[View Repository](https://github.com/Bitlez/Cubism-In-Game)
 
 ## 🎯 Currently Focused On - Actualmente Centrado En
 
