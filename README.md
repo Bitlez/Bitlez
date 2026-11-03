@@ -7,6 +7,10 @@ Welcome to my GitHub! I'm a developer focused on creating functional digital sol
 
 ¡Bienvenidos a mi GitHub! Soy un desarrollador enfocado en crear soluciones digitales funcionales, explorar el desarrollo de software y dar vida a ideas creativas mediante el código.
 
+Pueden encontrarme tambien en itch.io como Bitlez [My Itch.io](https://bitlez.itch.io/)
+
+Found me in Itch.io like a Bitlez [My Itch.io](https://bitlez.itch.io/)
+
 ## 💻 Technologies & Tools
 
 **Web Development**
