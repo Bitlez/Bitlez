@@ -28,12 +28,16 @@ Una plataforma web centrada en el descubrimiento de videojuegos y la gestión de
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
 
+[📂 View Repository](PEGAR_LINK_DE_WORMS)
+
 ### Worms 2 The Revenge
 A desktop videogame developed as an academic project, featuring interactive interfaces, gameplay systems and audio.
 
 Un videojuego para ordenador desarrollado como proyecto académico, que cuenta con interfaces interactivas, sistemas de juego y audio.
 
 **Technologies:** Java, JavaFX.
+
+[📂 View Repository](PEGAR_LINK_DE_WORMS)
 
 ### Cubism In Game
 A multiplayer educational experience based on artistic cubism.
@@ -42,6 +46,8 @@ Una experiencia educativa multijugador basada en el cubismo artístico.
 (In development - En Desarollo)
 
 **Technologies:** Godot, GDScript, ENet.
+
+[📂 View Repository](PEGAR_LINK_DE_WORMS)
 
 ## 🎯 Currently Focused On - Actualmente Centrado En
 
